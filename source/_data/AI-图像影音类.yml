@@ -14,3 +14,7 @@
   url: https://github.com/KwaiVGI/LivePortrait
   img: /img/LivePortrait.png
   description: 控制图像的面部表情和动作
+- name: CogVideo
+  url: https://github.com/THUDM/CogVideo
+  img: /img/CogVideo.png
+  description: 质谱开源的文生视频模型
