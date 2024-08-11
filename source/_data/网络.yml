@@ -6,3 +6,7 @@
   url: https://github.com/layou233/ZBProxy/
   img: /img/ZBProxy.png
   description: 一个简单、快速、高性能的多用途 TCP 中继，主要为搭建 Hypixel 加速 IP 而开发。  
+- name: China Internationally-connected
+  url: https://github.com/china-net/Internationally-connected
+  img: /img/China-Internationally-connected.png
+  description: 中国的国际网络互联状态介绍

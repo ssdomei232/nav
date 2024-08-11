@@ -18,3 +18,11 @@
   url: https://github.com/THUDM/CogVideo
   img: /img/CogVideo.png
   description: 质谱开源的文生视频模型
+- name: metahuman-stream
+  url: https://github.com/lipku/metahuman-stream
+  img: 
+  description: 实时交互流式数字人项目
+- name: Real-time-translation-typing
+  url: https://github.com/sxzxs/Real-time-translation-typing
+  img: /img/Real-time-translation-typing.png
+  description: 实时打字翻译助手

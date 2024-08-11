@@ -66,3 +66,11 @@
   url: https://www.sqlynx.com/
   img: /img/SQLYNX.svg
   description: WEB 和桌面 SQL 编辑器
+- name: KasmVNC
+  url: https://github.com/kasmtech/KasmVNC
+  img: /img/SQLYNX.jpg
+  description: 一个远程桌面的 VNC 软件，不需要客户端，只要服务器安装后，就可以通过浏览器访问
+- name: openalternative
+  url: https://openalternative.co/
+  img: /img/openalternative.ico
+  description: 查询软件的开源平替

@@ -58,3 +58,7 @@
   url: https://github.com/sickcodes/Docker-OSX
   img: /img/Docker-OSX.png
   description: 快速使用 Docker 启动一个 MacOS
+- name: devzat
+  url: https://github.com/quackduck/devzat
+  img: /img/devzat.png
+  description: 程序员专属 SSH 聊天室
