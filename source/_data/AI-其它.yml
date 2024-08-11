@@ -1,0 +1,12 @@
+- name: MemFree
+  url: https://github.com/memfreeme/memfree
+  img: /img/MemFree.png
+  description: 一个混合 AI 搜索引擎，代码开源，可以自托管
+- name: 数字生命
+  url: https://github.com/zixiiu/Digital_Life_Server
+  img: /img/Digital_Life_Server.jfif
+  description: 极客湾的数字生命项目
+- name: firecrawl
+  url: https://github.com/mendableai/firecrawl
+  img: /img/firecrawl.png
+  description: 将网站自动转换为LLM数据

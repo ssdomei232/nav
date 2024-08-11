@@ -1,0 +1,24 @@
+- name: CSS可视化
+  url: https://css.bqrdh.com/
+  img: /img/css.ico
+  description: CSS可视化
+- name: CSS灵感
+  url: https://csscoco.com/inspiration/#/
+  img: /img/css-inspiration.png
+  description: 可以让你寻找到使用或者是学习 CSS 的灵感
+- name: iCSS
+  url: https://github.com/chokcoco/iCSS
+  img: /img/iCSS.jpg
+  description: 围绕 CSS/Web动画 展开，谈一些有趣的话题
+- name: icons8
+  url: https://icons8.com/
+  img: /img/icons8.svg
+  description: 免费图标工具
+- name: fontright
+  url: https://js.design/fontright?source=OMG&plan=bz
+  img: /img/fontright.ico
+  description: 字体版权工具
+- name: HTML5 UP
+  url: https://html5up.net/
+  img: /img/html5up.ico
+  description: 大量好看的免费 HTML 模板

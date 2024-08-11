@@ -3,28 +3,22 @@ function search() {
   var listIndex = -1;
   var hotList = 0;
   var searchData = {
-    thisSearch: "https://www.baidu.com/s?wd=",
+    thisSearch: "https://cn.bing.com/search?q=",
     thisSearchIcon:
-      "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')",
+      "url('https://sh.jsdmirror.com/npm/hassan-assets/navi/search_icon.png')",
     hotStatus: true,
     data: [
       {
-        name: "百度",
-        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px 0px",
-        position: "0px 0px",
-        url: "https://www.baidu.com/s?wd=",
+        name: "必应",
+        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')  -80px -25px",
+        position: "0px -40px",
+        url: "https://cn.bing.com/search?q=",
       },
       {
         name: "谷歌",
         img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')  -105px 0px",
         position: "-40px 0px",
         url: "https://www.google.com/search?q=",
-      },
-      {
-        name: "必应",
-        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png')  -80px -25px",
-        position: "0px -40px",
-        url: "https://cn.bing.com/search?q=",
       },
       {
         name: "好搜",
@@ -63,18 +57,6 @@ function search() {
         url: "https://s.1688.com/selloffer/offer_search.htm?keywords=",
       },
       {
-        name: "知乎",
-        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -100px",
-        position: "-40px -160px",
-        url: "https://www.zhihu.com/search?type=content&q=",
-      },
-      {
-        name: "微博",
-        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -125px",
-        position: "0px -200px",
-        url: "https://s.weibo.com/weibo/",
-      },
-      {
         name: "B站",
         img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -125px",
         position: "-40px -200px",
@@ -85,12 +67,6 @@ function search() {
         img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -80px -150px",
         position: "0px -240px",
         url: "https://www.douban.com/search?source=suggest&q=",
-      },
-      {
-        name: "优酷",
-        img: "url('https://cdn.jsdelivr.net/npm/hassan-assets/navi/search_icon.png') -105px -150px",
-        position: "-40px -240px",
-        url: "https://so.youku.com/search_video/q_",
       },
       {
         name: "GitHub",

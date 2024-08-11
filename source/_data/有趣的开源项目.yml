@@ -1,0 +1,56 @@
+- name: telegraph
+  url: https://github.com/0-RTT/telegraph
+  img: /img/telegraph.jfif
+  description: 基于telegraph的图床，图片大于5MB自动压缩 
+- name: newredlens
+  url: https://github.com/CQUPTMirror/newredlens
+  img: /img/newredlens.png
+  description: 好看的开源软件镜像站前端
+- name: LookingGlass
+  url: https://github.com/telephone/LookingGlass
+  img: /img/LookingGlass.jfif
+  description: 适合云服务商展示服务器线路的PHP项目 
+- name: Page Replica
+  url: https://github.com/Page-Replica/page-replica
+  img: /img/page-replica.png
+  description: 架设一个缓存网站,可以抓取其他网站和网页,建立一个缓存版本,通过它来中介访问
+- name: DirectoryLister
+  url: https://github.com/DirectoryLister/DirectoryLister
+  img: /img/DirectoryLister.png
+  description: 一个Web文件浏览器，功能极其丰富
+- name: AntiZhaPian
+  url: https://github.com/XJP-GIT/AntiZhaPian
+  img: /img/AntiZhaPian.jpg
+  description: 假的国家反诈中心
+- name: shit-url
+  url: https://llili.li/
+  img: /img/shit-url.png
+  description: 屑链生成，最屑的短链接生成站
+- name: BroadcastChannel
+  url: https://github.com/ccbikai/BroadcastChannel
+  img: /img/BroadcastChannel.png
+  description: 把你的Telegram频道变成一个微博,无需服务器
+- name: debian-media-box
+  url: https://github.com/moesoha/debian-media-box
+  img: /img/debian-media-box.png
+  description: “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
+- name: OpenGFW
+  url: https://github.com/apernet/OpenGFW
+  img: /img/OpenGFW.png
+  description: 可以部署在家用路由器上的网络主权 - 你也能是老大哥
+- name: heyform
+  url: https://github.com/heyform/heyform
+  img: /img/heyform.jfif
+  description: 一个开源表单构建器，允许任何人为调查、问卷、测验和民意调查创建引人入胜的对话表单
+- name: Minecraft-Server-Ports-Scanner-GUI
+  url: https://github.com/hite4044/Minecraft-Server-Ports-Scanner-GUI
+  img: /img/Minecraft-Server-Ports-Scanner-GUI.png
+  description: 扫描服务器上所有的MC服务器，并使用GUI显示几乎所有信息
+- name: ente
+  url: https://github.com/ente-io/ente
+  img: /img/ente.png
+  description: 完全开源，端到端加密的Google照片和Apple Photos替代品
+- name: 文件快递柜
+  url: https://github.com/vastsa/FileCodeBox
+  img: /img/FileCodeBox.png
+  description: 匿名口令分享文本，文件，像拿快递一样取文件

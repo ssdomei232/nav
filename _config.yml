@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 诗颂的网址导航
-subtitle: Harris Wong
-description: 网站包含 Harris Wong 本人常用网站，同时提供多站点导航功能，若是喜欢赶紧收藏吧
-keywords: 网址收藏,常用网址,网址导航,网址大全,Harris's Blog,常用网站,私人导航,诗颂,HarrisWong
-author: Harris Wong
-language: en
-timezone: ""
+title: APS NAV
+subtitle: https://aps.icu
+description: APS NAV
+keywords: APS NAV,导航,APS,mei,linuxcat,linuxcat周刊,开源,软件,推荐,分享
+author: mei
+language: zh_CN
+timezone: "Asia/Shanghai"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'

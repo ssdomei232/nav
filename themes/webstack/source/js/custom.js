@@ -52,18 +52,18 @@ window.onload = function checkTime() {
 // 鼠标滑过网址卡片、输入框触发背景模糊 -----------------------------结束
 
 // 卖萌标题
-var OriginTitle = document.title;
-var titleTime;
-document.addEventListener('visibilitychange', function () {
-	if (document.hidden) {
-		$('[rel="icon"]').attr('href', "/img/favicon.ico");
-		document.title = '(つェ⊂) 你脸上有点东西~~';
-		clearTimeout(titleTime);
-	} else {
-		$('[rel="icon"]').attr('href', "/img/favicon.ico");
-		document.title = '(*´∇｀*) 有点可爱~~  ' + OriginTitle;
-		titleTime = setTimeout(function () {
-			document.title = OriginTitle;
-		}, 2000);
-	}
-});
+// var OriginTitle = document.title;
+// var titleTime;
+// document.addEventListener('visibilitychange', function () {
+// 	if (document.hidden) {
+// 		$('[rel="icon"]').attr('href', "/img/favicon.ico");
+// 		document.title = '(つェ⊂) 你脸上有点东西~~';
+// 		clearTimeout(titleTime);
+// 	} else {
+// 		$('[rel="icon"]').attr('href', "/img/favicon.ico");
+// 		document.title = '(*´∇｀*) 有点可爱~~  ' + OriginTitle;
+// 		titleTime = setTimeout(function () {
+// 			document.title = OriginTitle;
+// 		}, 2000);
+// 	}
+// });

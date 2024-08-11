@@ -1,0 +1,16 @@
+- name: IC-Light
+  url: https://github.com/lllyasviel/IC-Light
+  img: /img/IC-Light.jfif
+  description: 为图像重新打光和更换背景
+- name: APISR
+  url: https://github.com/Kiteretsu77/APISR
+  img: /img/APISR.png
+  description: 开源的图像超分辨率模型
+- name: ComfyUI
+  url: https://github.com/comfyanonymous/ComfyUI
+  img: /img/ComfyUI.png
+  description: 一个强大的、模块化的 Stable Diffusion GUI，具有图形/节点界面
+- name: LivePortrait
+  url: https://github.com/KwaiVGI/LivePortrait
+  img: /img/LivePortrait.png
+  description: 控制图像的面部表情和动作
