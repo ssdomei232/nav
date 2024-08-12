@@ -10,3 +10,7 @@
   url: https://github.com/mendableai/firecrawl
   img: /img/firecrawl.png
   description: 将网站自动转换为LLM数据
+- name: Real-time-translation-typing
+  url: https://github.com/sxzxs/Real-time-translation-typing
+  img: /img/Real-time-translation-typing.png
+  description: 实时打字翻译助手
