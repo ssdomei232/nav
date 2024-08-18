@@ -14,3 +14,11 @@
   url: https://www.nodeseek.com/post-113191-1
   img: 
   description: pve快速配置IPv6+nat教程 && Lxc评测脚本发布，评测宿主机系统
+- name: quicklink：实现原理与给前端的启发
+  url: https://www.jianshu.com/p/7dc94efe7e2e
+  img: 
+  description: 【性能优化】quicklink：实现原理与给前端的启发
+- name: 秒开的艺术：Hexo 博客首屏耗时优化实践
+  url: https://imkero.net/posts/hexo-page-performance/
+  img: 
+  description: 秒开的艺术：Hexo 博客首屏耗时优化实践

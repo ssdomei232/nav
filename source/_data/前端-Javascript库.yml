@@ -22,3 +22,7 @@
   url: https://github.com/kamranahmedse/driver.js
   img: /img/driver.js.svg
   description: 精美,轻量的用户引导JS
+- name: quicklink
+  url: https://github.com/GoogleChromeLabs/quicklink
+  img: /img/quicklink.png
+  description: 在空闲时间预加载视口内链接,会增加带宽负担

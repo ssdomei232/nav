@@ -75,6 +75,9 @@ menu:
   - name: 无人机
     icon: iconfont icon-wurenji
     config: 无人机
+  - name: 我喜欢的博客
+    icon: iconfont icon-blog
+    config: blogs
 since: 2024
 
 busuanzi:
@@ -86,7 +89,7 @@ busuanzi:
 custom:
   head: # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
     <link rel="stylesheet" type="text/css" href="/css/custom.css">
-    <link rel="stylesheet" type="text/css" href="//at.alicdn.com/t/c/font_4649895_cym94kh966.css">
+    <link rel="stylesheet" type="text/css" href="//at.alicdn.com/t/c/font_4649895_at9ghp2w5wv.css">
     <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/font/regular.css" media="all" onload="this.media='all'" />
     <script defer src="https://umami.mmeiblog.cn/script.js" data-website-id="4ed0e465-19be-497e-8e3b-676303b53246"></script>
   body: # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
