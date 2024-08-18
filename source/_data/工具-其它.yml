@@ -74,3 +74,11 @@
   url: https://openalternative.co/
   img: /img/openalternative.ico
   description: 查询软件的开源平替
+- name: mikufans录播姬
+  url: https://github.com/BililiveRecorder/BililiveRecorder
+  img: /img/BililiveRecorder.png
+  description: 录播姬 | mikufans 生放送录制
+- name: biliup
+  url: https://github.com/biliup/biliup
+  img: 
+  description: 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运

@@ -62,3 +62,15 @@
   url: https://github.com/quackduck/devzat
   img: /img/devzat.png
   description: 程序员专属 SSH 聊天室
+- name: synctv
+  url: https://github.com/synctv-org/synctv
+  img: /img/synctv.png
+  description: 一个可以远程一起看电影/直播的程序,目前存在严重的xss注入漏洞
+- name: inter-knot
+  url: https://github.com/share121/inter-knot
+  img: /img/inter-knot.svg
+  description: 绳网
+- name: frp内网穿透全端口映射方案
+  url: https://github.com/bkywksj/frp
+  img: /img/bkywksjfrp.jfif
+  description: frp内网穿透全端口映射方案（支持ssh、http、https）

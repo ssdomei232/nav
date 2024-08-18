@@ -14,3 +14,7 @@
   url: https://github.com/sxzxs/Real-time-translation-typing
   img: /img/Real-time-translation-typing.png
   description: 实时打字翻译助手
+- name: RefAudioEmoTagger
+  url: https://github.com/Alexw1111/RefAudioEmoTagger
+  img: /img/RefAudioEmoTagger.jfif
+  description: 一种基于Emotion2Vec的批量音频情感自动标注脚本
