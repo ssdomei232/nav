@@ -26,3 +26,7 @@
   url: https://github.com/GoogleChromeLabs/quicklink
   img: /img/quicklink.png
   description: 在空闲时间预加载视口内链接,会增加带宽负担
+- name: Text Search Engine
+  url: https://github.com/cjinhuo/text-search-engine
+  img: /img/Text Search Engine.png.jfif
+  description: 模糊搜索库，具有中文拼音的模糊搜索等多种功能

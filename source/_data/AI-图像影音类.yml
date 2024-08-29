@@ -22,3 +22,11 @@
   url: https://github.com/lipku/metahuman-stream
   img: 
   description: 实时交互流式数字人项目
+- name: image-matting
+  url: https://github.com/pangxiaobin/image-matting
+  img: /img/image-matting.png
+  description: 本地桌面AI抠图软件
+- name: Deep Live Cam
+  url: https://deeplive.cam/zh
+  img: /img/deeplive.ico
+  description: 只需一张图片，就可实现视频的人脸替换

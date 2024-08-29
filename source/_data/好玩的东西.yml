@@ -1,0 +1,4 @@
+- name: AI 嘴替
+  url: https://zuiti.app/
+  img: /img/zuiti.png
+  description: 对指定的微博用户进行人格分析

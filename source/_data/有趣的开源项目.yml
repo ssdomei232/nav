@@ -74,3 +74,11 @@
   url: https://github.com/bkywksj/frp
   img: /img/bkywksjfrp.jfif
   description: frp内网穿透全端口映射方案（支持ssh、http、https）
+- name: frpc-desktop
+  url: https://github.com/luckjiawei/frpc-desktop
+  img: /img/frpc-desktop.png
+  description: 一个frpc桌面客户端
+- name: AsmBB
+  url: https://asmbb.org/
+  img: /img/asmbb.png
+  description: 一个使用汇编语言写的论坛应用，性能很强，对机器配置的要求很低
