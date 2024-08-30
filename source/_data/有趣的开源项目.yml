@@ -82,3 +82,11 @@
   url: https://asmbb.org/
   img: /img/asmbb.png
   description: 一个使用汇编语言写的论坛应用，性能很强，对机器配置的要求很低
+- name: Coolify
+  url: https://github.com/coollabsio/coolify
+  img: /img/Coolify.png
+  description: 开源的应用运行平台，相当于自己搭建一个 Heroku / Netlify / Vercel 替代品，各种应用可以轻松在上面运行
+- name: Marsview
+  url: https://github.com/JackySoft/marsview
+  img: /img/Marsview.png
+  description: 一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统

@@ -30,3 +30,7 @@
   url: https://deeplive.cam/zh
   img: /img/deeplive.ico
   description: 只需一张图片，就可实现视频的人脸替换
+- name: Linly-Dubbing
+  url: https://github.com/Kedreamix/Linly-Dubbing
+  img: /img/Linly-Dubbing.jfif
+  description: AI 视频配音的开源工具，自动将外语视频改成中文配音
