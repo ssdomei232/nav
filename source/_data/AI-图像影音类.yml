@@ -34,3 +34,7 @@
   url: https://github.com/Kedreamix/Linly-Dubbing
   img: /img/Linly-Dubbing.jfif
   description: AI 视频配音的开源工具，自动将外语视频改成中文配音
+- name: HivisionIDPhotos
+  url: https://github.com/Zeyi-Lin/HivisionIDPhotos
+  img: /img/HivisionIDPhotos.jpeg
+  description: 一个轻量级的AI证件照制作算法
