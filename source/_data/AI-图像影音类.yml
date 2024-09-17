@@ -34,3 +34,7 @@
   url: https://github.com/Kedreamix/Linly-Dubbing
   img: /img/Linly-Dubbing.jfif
   description: AI 视频配音的开源工具，自动将外语视频改成中文配音
+- name: facefusion
+  url: https://github.com/facefusion/facefusion
+  img: /img/facefusion.jfif
+  description: AI 换脸工具

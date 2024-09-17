@@ -30,3 +30,7 @@
   url: https://github.com/cjinhuo/text-search-engine
   img: /img/Text Search Engine.png.jfif
   description: 模糊搜索库，具有中文拼音的模糊搜索等多种功能
+- name: fakeCAPTCHA
+  url: https://github.com/fucklinux/fakeCAPTCHA
+  img: /img/Text Search Engine.png.jfif
+  description: 假的人机验证组件,可自定义显示内容

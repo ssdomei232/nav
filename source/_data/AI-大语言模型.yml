@@ -10,3 +10,7 @@
   url: https://github.com/THUDM/GLM-4
   img: /img/GLM-4.png
   description: 开源多语言多模态对话模型,智谱 AI 推出
+- name: Ask Many AI
+  url: https://www.askmanyai.cn/
+  img: /img/askmanyai.ico
+  description: 同时向多种模型提问

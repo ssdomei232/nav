@@ -54,3 +54,7 @@
   url: https://github.com/nmap/nmap
   img: /img/Nmap.png
   description: 网络扫描神器
+- name: hackingtool
+  url: https://github.com/Z4nzu/hackingtool
+  img: /img/hackingtool.png
+  description: 融合了各类漏洞扫描和攻击工具

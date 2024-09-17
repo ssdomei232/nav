@@ -86,3 +86,19 @@
   url: https://ente.io/auth/
   img: /img/ente.png
   description: 一个开源的双因素认证码管理器
+- name: 图片盲水印查看器
+  url: http://www.atoolbox.net/Tool.php?Id=1052
+  img: /img/atoolbox.png
+  description: 查看图片各通道的最低位（LSB）信息
+- name: screen studio
+  url: https://www.screen.studio/
+  img: /img/www.screen.png
+  description: 录制演示录屏工具(Mac)
+- name: Focusee
+  url: https://gemoo.com/focusee/
+  img: /img/gemoo.ico
+  description: 录制演示录屏工具(Win)
+- name: MinerU
+  url: https://github.com/opendatalab/MinerU
+  img: /img/MinerU-logo.png
+  description: 强大的数据提取工具,将PDF,DOC等格式转换为Markdown

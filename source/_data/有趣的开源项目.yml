@@ -90,3 +90,7 @@
   url: https://github.com/JackySoft/marsview
   img: /img/Marsview.png
   description: 一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统
+- name: Class-Widgets
+  url: https://github.com/RinLit-233-shiroko/Class-Widgets
+  img: /img/Class-Widgets.png
+  description: 提供了易用课程表编辑和美观的桌面组件
