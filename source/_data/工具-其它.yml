@@ -74,6 +74,10 @@
   url: https://openalternative.co/
   img: /img/openalternative.ico
   description: 查询软件的开源平替
+- name: alternativeto
+  url: https://alternativeto.net/
+  img: /img/alternativeto.ico
+  description: 查询软件的替代品，与上一个类似
 - name: mikufans录播姬
   url: https://github.com/BililiveRecorder/BililiveRecorder
   img: /img/BililiveRecorder.png
