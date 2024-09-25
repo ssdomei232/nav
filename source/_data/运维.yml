@@ -58,3 +58,7 @@
   url: https://github.com/Z4nzu/hackingtool
   img: /img/hackingtool.png
   description: 融合了各类漏洞扫描和攻击工具
+- name: InternetTest Pro
+  url: https://github.com/Leo-Corporation/InternetTest
+  img: /img/InternetTest Pro.png
+  description: 一款Windows连接工具，功能强大
