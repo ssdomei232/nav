@@ -62,3 +62,7 @@
   url: https://github.com/Leo-Corporation/InternetTest
   img: /img/InternetTest Pro.png
   description: 一款Windows连接工具，功能强大
+- name: pvetools
+  url: https://github.com/ivanhao/pvetools
+  img: /img/pvetools.webp
+  description: Proxmox VE Tools 脚本（Debian 9+ 可以使用）。包括电子邮件、samba、NFS set zfs max ram、嵌套虚拟化、docker、pci passthrough等。英文用户请看自述文件末尾。

@@ -106,3 +106,7 @@
   url: https://github.com/opendatalab/MinerU
   img: /img/MinerU-logo.png
   description: 强大的数据提取工具,将PDF,DOC等格式转换为Markdown
+- name: B站空降助手
+  url: https://github.com/hanydd/BilibiliSponsorBlock
+  img: /img/LogoSponsorBlocker256px.png
+  description: 一款跳过B站视频中恰饭片段的浏览器插件
