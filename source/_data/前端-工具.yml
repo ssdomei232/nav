@@ -38,3 +38,11 @@
   url: https://penpot.app/
   img: /img/penpot.ico
   description: 一个基于 Web 的开源设计工具，Figma 的替代品
+- name: jsongenerator
+  url: https://www.jsongenerator.io/
+  img: /img/jsongenerator.ico
+  description: 生成符合要求的 Json 伪数据
+- name: JSON For You
+  url: https://github.com/loggerhead/json4u/
+  img: /img/json4u.svg
+  description: 开源的 JSON 数据的在线可视化、处理工具

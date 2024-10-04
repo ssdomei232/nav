@@ -14,3 +14,7 @@
   url: https://www.askmanyai.cn/
   img: /img/askmanyai.ico
   description: 同时向多种模型提问
+- name: petercat
+  url: https://github.com/petercat-ai/petercat
+  img: /img/petercat.png
+  description: 为自己的 GitHub 仓库一键创建智能答疑机器人

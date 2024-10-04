@@ -30,3 +30,7 @@
   url: https://bilicover.magecorn.com/
   img: https://www.bilibili.com/favicon.ico
   description: 通过输入B站视频链接即可在线获取封面地址
+- name: Xnapper Studio
+  url: https://xnapper.com/app
+  img: /img/Xnapper-Studio.ico
+  description: 截图美化工具

@@ -110,3 +110,11 @@
   url: https://github.com/hanydd/BilibiliSponsorBlock
   img: /img/LogoSponsorBlocker256px.png
   description: 一款跳过B站视频中恰饭片段的浏览器插件
+- name: DawnLauncher
+  url: https://github.com/fanchenio/DawnLauncher
+  img: 
+  description: Windows快捷启动工具，帮助您整理杂乱无章的桌面，分门别类管理您的桌面快捷方式，让您的桌面保持干净整洁
+- name: omnivore
+  url: https://github.com/omnivore-app/omnivore
+  img: /img/omnivore.png
+  description: 一个稍后阅读文章工具

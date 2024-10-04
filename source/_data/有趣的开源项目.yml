@@ -94,3 +94,7 @@
   url: https://github.com/RinLit-233-shiroko/Class-Widgets
   img: /img/Class-Widgets.png
   description: 提供了易用课程表编辑和美观的桌面组件
+- name: socialify
+  url: https://github.com/wei/socialify
+  img: /img/socialify.ico
+  description: 以图片展示 Github 项目的数据
