@@ -98,3 +98,7 @@
   url: https://github.com/wei/socialify
   img: /img/socialify.ico
   description: 以图片展示 Github 项目的数据
+- name: WebChat
+  url: https://github.com/molvqingtai/WebChat
+  img: /img/WebChat.png
+  description: 一个去中心化、无服务器的匿名聊天浏览器扩展程序
