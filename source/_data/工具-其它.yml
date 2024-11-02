@@ -118,3 +118,11 @@
   url: https://github.com/omnivore-app/omnivore
   img: /img/omnivore.png
   description: 一个稍后阅读文章工具
+- name: Inbox Zero
+  url: https://github.com/elie222/inbox-zero
+  img: 
+  description: 借助AI整理收件箱 保持零邮件
+- name: screenshot-to-code
+  url: https://github.com/liseami/screenshot-to-code
+  img: 
+  description: 一个简单的工具，可使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码。现在支持 Claude Sonnet 3.5 和 GPT-4o

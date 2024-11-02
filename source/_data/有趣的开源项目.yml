@@ -102,3 +102,7 @@
   url: https://github.com/molvqingtai/WebChat
   img: /img/WebChat.png
   description: 一个去中心化、无服务器的匿名聊天浏览器扩展程序
+- name: IPTV电视直播源更新工具
+  url: https://github.com/Guovin/TV
+  img: /img/Guovin.tv.png
+  description: 自定义频道菜单，根据模板频道，自动获取并更新最新的直播源接口，测速校验后生成可用的接口文件
