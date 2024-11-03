@@ -126,3 +126,7 @@
   url: https://github.com/liseami/screenshot-to-code
   img: 
   description: 一个简单的工具，可使用 AI 将屏幕截图、模型和 Figma 设计转换为干净、实用的代码。现在支持 Claude Sonnet 3.5 和 GPT-4o
+- name: MusicFree
+  url: https://musicfree.catcat.work/
+  img: /img/MusicFree.png
+  description: 一个插件化的音乐播放器
